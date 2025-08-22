@@ -34,6 +34,15 @@
 #### Тест 10: Удаление из избранного
 - `test_delete_book_from_favorites_deletes_existing_book` - проверяет удаление книги из списка избранных
 
+### Тест 11: Получение жанра книги
+- `test_get_book_genre_returns_genre_of_existing_book` - проверяет получение жанра существующей книги
+
+### Тест 12: Получение словаря книг
+- `test_get_books_genre_returns_books_genre_dictionary` - проверяет получение словаря всех книг и жанров
+
+### Тест 13: Получение списка избранных книг
+- `test_get_list_of_favorites_books_returns_favorites_list` - проверяет получение списка избранных книг
+
 ## Запуск тестов
 
 Для запуска тестов используйте команду:
